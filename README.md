@@ -46,7 +46,7 @@ My formal degree in 3D Animation and Modeling gives me a strong visual and spati
 
 - **Modgram** — Cross-platform fashion Progressive Web App (PWA) built with HTML, CSS, JavaScript, and Supabase (PostgreSQL + Row Level Security).
 - **Java Desktop GUIs** — Interactive desktop applications built with Java Swing and NetBeans focusing on event-driven architecture and clean layouts.
-- **gaimilito** — Personal multiplatform productivity and job-search assistant.
+- **[Gaimilito](https://github.com/ikercruzadojimenez/Gaimilito)** — Cross-platform personal productivity and job-search assistant built with Flutter (Android & Windows).
 
 ---
 
