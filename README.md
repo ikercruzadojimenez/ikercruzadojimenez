@@ -9,7 +9,7 @@ My formal degree in 3D Animation and Modeling gives me a strong visual and spati
 -  **Dual Higher Technician Degree:** Multiplatform Application Development (DAM) & 3D Animation, Modeling and Interactive Environments
 -  Focused on **Java, Kotlin, C#, SQL, and Web Development (HTML, CSS, JS)**
 -  Trained in **3D Modeling & Animation** (Blender, ZBrush, Substance Painter, Maya)
--  Building **Modgram** (a cross-platform fashion PWA with Supabase) and **gaimilito** (a personal productivity assistant)
+-  Building **Modgram** (a cross-platform fashion PWA with Supabase) and **gmAIl** (a personal productivity & job-search assistant)
 -  Reach me at: **iker.cruzado.jimenez.dev@gmail.com**
 
 ---
@@ -46,7 +46,7 @@ My formal degree in 3D Animation and Modeling gives me a strong visual and spati
 
 - **Modgram** — Cross-platform fashion Progressive Web App (PWA) built with HTML, CSS, JavaScript, and Supabase (PostgreSQL + Row Level Security).
 - **Java Desktop GUIs** — Interactive desktop applications built with Java Swing and NetBeans focusing on event-driven architecture and clean layouts.
-- **[Gaimilito](https://github.com/ikercruzadojimenez/Gaimilito)** — Cross-platform personal productivity and job-search assistant built with Flutter (Android & Windows).
+- **[gmAIl](https://github.com/ikercruzadojimenez/gmAIl)** — Cross-platform personal productivity and job-search assistant built with Flutter (Android & Windows).
 - **[AI Portfolio Assistant](https://github.com/ikercruzadojimenez/ikercruzadojimenez.github.io)** — Interactive portfolio chatbot powered by Cloudflare Workers, KV rate limiting, and Google Gemini API ([Live Demo](https://ikercruzadojimenez.github.io)).
 
 ---
